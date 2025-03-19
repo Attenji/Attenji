@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Static Badge](https://img.shields.io/badge/LinkedIn%20-%20Atta%20Ur%20Rehman%20-%20ffffff?labelColor=0a66c2&color=81d3e3&link=www.linkedin.com%2Fin%2Fatta-ur)
+
 ## **About Me**
 - 🎓 Current BSc Computer Science final year student
 - 🚀 Passionate about Artifical Intelligence, Natural Language Processing, Data Analysis and Software Engineering
 - 🔧 Skills include Python, Java, C/C++, HTML/CSS/JS, SQL, MATLAB, LaTeX
 
-## **Get In Touch**
-- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn%3A%20Atta%20Ur%20Rehman?style=social&logoColor=0a66c2&labelColor=ffffff)](www.linkedin.com/in/atta-ur)
+
+Feel free to reach out! Thanks for visiting! 😊
