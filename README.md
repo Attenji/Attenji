@@ -22,4 +22,9 @@ Here are some ideas to get you started:
 - 🔧 Skills include Python, Java, C/C++, HTML/CSS/JS, SQL, MATLAB, LaTeX
 
 
+<p align="center">
+  <img align="center" height="170" src="https://github-readme-stats-kappa-kohl-69.vercel.app/api/top-langs/?username=attenji&layout=compact&border_color=fff&&theme=gruvbox&border_radius=11&hide=batchfile,makefile,rich%20text%20format&langs_count=6" />
+</p>
+
+
 Feel free to reach out! Thanks for visiting! 😊
