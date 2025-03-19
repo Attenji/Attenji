@@ -1,8 +1,7 @@
-## Hi there 👋
+<h1 align="center"><b> Hey I'm Atta 👋 </b></h1>
 
 <!--
 **Attenji/Attenji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## **About Me**
+- 🎓 Current BSc Computer Science final year student
+- 🚀 Passionate about Artifical Intelligence, Natural Language Processing, Data Analysis and Software Engineering
+- 🔧 Skills include Python, Java, C/C++, HTML/CSS/JS, SQL, MATLAB, LaTeX
+
+## **Get In Touch**
+- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn%3A%20Atta%20Ur%20Rehman?style=social&logoColor=0a66c2&labelColor=ffffff)](www.linkedin.com/in/atta-ur)
