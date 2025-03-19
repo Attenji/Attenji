@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Static Badge](https://img.shields.io/badge/LinkedIn%20-%20Atta%20Ur%20Rehman%20-%20ffffff?labelColor=0a66c2&color=81d3e3&link=www.linkedin.com%2Fin%2Fatta-ur)
+[![Static Badge](https://img.shields.io/badge/LinkedIn%20-%20Atta%20Ur%20Rehman%20-%20ffffff?labelColor=0a66c2&color=81d3e3&link=www.linkedin.com%2Fin%2Fatta-ur)](www.linkedin.com/in/atta-ur)
 
 ## **About Me**
 - 🎓 Current BSc Computer Science final year student
